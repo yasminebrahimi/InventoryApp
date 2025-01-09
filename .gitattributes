@@ -1,8 +1,2 @@
-node_modules/
-.vscode/
-.env
-*.log
-dist/
-build/
-.cache/
-*.tmp
+# Auto detect text files and perform LF normalization
+* text=auto
